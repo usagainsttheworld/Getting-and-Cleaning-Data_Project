@@ -1,0 +1,25 @@
+##Codebook
+
+####Input 
+
+Input files from UCI HAR Dataset:
+y_train.txt
+X_train.txt
+y_test.txt
+Y_train.txt
+subject_train.txt
+subject_test.txt
+features.txt
+activity_labels.txt
+
+####Variables in "data_all"
+1.subject: 30 volunteers who took the experiments
+2.activity_id: number code for certain type of activity
+3.activity: lable/name for certain type of activity
+Following  mean and standard deviation meansurements of the variables 
+
+####Variables in "data_tidy"
+1.activity: lable/name for certain type of activity
+2.subject: 30 volunteers who took the experiments
+3.activity_id: number code for certain type of activity
+Following mean and standard deviation meansurements of the variables
