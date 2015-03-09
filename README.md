@@ -18,4 +18,4 @@ Here is how the script works:
 
 9.Then I creates a second tidy data set called "data_tidy" with the average of each variable for each activity and each subject as task required.
 
-10. At last, I creat a txt file for the data_tidy data set using write.table()
+10.At last, I creat a txt file for the data_tidy data set using write.table()
